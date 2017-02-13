@@ -1,1 +1,1 @@
-# ECM2015
+# ES6 (ECMAScript 6)
