@@ -1,6 +1,6 @@
 var name = 'Bia', yearBorn = 2000;
 function year(){
-  return new Date().getFullYear() - yearBorn;
+  return new Date().getFullYear() - this.yearBorn;
 }
 var person = {
   name,
